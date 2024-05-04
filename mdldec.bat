@@ -1,7 +1,7 @@
 @echo off
 
 if "%~1"=="" (
-    echo FUCK YOU!!! YOUR FUCKIN DICK!!!
+    echo FUCK YOU!!! YOU FUCKIN DICK!!!
     pause
     exit /b
 )
