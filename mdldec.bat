@@ -10,7 +10,6 @@ type nul > activities.txt
 cd /d %~dp1
 %~dp0mdldec_win32.exe %~nx1
 
-cd /d %~dp1
 mkdir orig
 
 for /f "tokens=*" %%f in ('dir /b /a-d *mdl') do (
